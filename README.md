@@ -3,7 +3,7 @@ biblatex-nature - A biblatex implementation of the Nature bibliography style
 
 The `biblatex-nature` package provides an implementation of
 the bibliography style of the journal Nature for `biblatex`. This
-implementation follows standard` biblatex` conventions, and can
+implementation follows standard `biblatex` conventions, and can
 be used simply by loading `biblatex` with the appropriate option
 
     \usepackage[style=nature]{biblatex}
